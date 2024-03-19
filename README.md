@@ -47,6 +47,7 @@ The project files are divided between the following folders:
 - *03 Scripts: The Jupyter notebooks containing the coding for the analysis.*
 - *04 Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.*
 - *05 Sent to Client: The final report presented in Tableau*
+    - [Tableau Storyboard link](https://public.tableau.com/views/InsightsonNYCPublicSchoolEnrollmentTrends/NYCPublicSchoolEnrollmentTrends?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Resouces
 
