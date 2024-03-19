@@ -3,7 +3,7 @@
 In this project, I conducted an in-depth analysis of public school enrollment trends in New York City (NYC) using various open-source datasets related to NYC public schools. The primary focus was on understanding enrollment patterns, demographic factors, and their implications for education planning and policymaking. Included is the Public School Enrollment Demographic dataset (created and included for the purpose of this project) containing my Python queries that I wrote with the data outputs, and visulization charts. 
 
 ## Objective
-![NYC DOE]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FNYCschools%2F&psig=AOvVaw1CedeGJC0sauJ9txZDDUTx&ust=1710973937392000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCZ0OWwgYUDFQAAAAAdAAAAABAE](https://sites.google.com/schools.nyc.gov/district22/schooldistrict-events)
+![NYC DOE](https://sites.google.com/schools.nyc.gov/district22/schooldistrict-events)
 
 The objective of this analysis is to explore trends in student enrollment and demographic patterns across different grades and administrative districts in New York City (NYC) public schools. By analyzing enrollment data and demographic factors, we aim to provide insights for education planning and policymaking to ensure equitable opportunities and improved educational outcomes for all students.
 
