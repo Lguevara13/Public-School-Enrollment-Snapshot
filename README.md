@@ -26,7 +26,7 @@ As a data analyst your project is to build an interactive dashboard visually sho
 NYC Public School Enrollment Data: This dataset contains information about student enrollment across different grades and administrative districts in NYC public schools. It includes demographic details such as ethnicity, gender, economic status, English language proficiency, and disability status.
 
 *NYC Public Data:*
-- [Data Dictionary](https://data.cityofnewyork.us/Education/2013-2018-Demographic-Snapshot-School/s52a-8aq6/about_data)
+- [Data Source](https://data.cityofnewyork.us/Education/2013-2018-Demographic-Snapshot-School/s52a-8aq6/about_data)
 - [School District map](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj)
 
 ## Tools
