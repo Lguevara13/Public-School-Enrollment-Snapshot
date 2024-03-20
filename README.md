@@ -27,7 +27,7 @@ NYC Public School Enrollment Data: This dataset contains information about stude
 
 *NYC Public Data:*
 - [Data Source](https://data.cityofnewyork.us/Education/2013-2018-Demographic-Snapshot-School/s52a-8aq6/about_data)
-- [School District map](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj)
+- [School Location](https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6/about_data)
 
 ## Tools
 
